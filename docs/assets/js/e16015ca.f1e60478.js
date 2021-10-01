@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkalgolabs_me=self.webpackChunkalgolabs_me||[]).push([[700],{3507:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/hola","name":"hola","count":1,"permalink":"/blog/tags/hola"}')}}]);
